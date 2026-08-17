@@ -1,0 +1,14 @@
+{
+  "name": "fleet-street-english",
+  "version": "1.0.0",
+  "description": "Fleet Street English",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build complete"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/cli": "^7.4.0"
+  }
+}
